@@ -1,5 +1,5 @@
 # Towers-Of-Hanoi-Animation
-It is a C++ program for implementation of towers of hanoi using graphics.h header file.
+It is a C program for implementation of towers of hanoi using graphics.h header file.
 
 # Pre-Requisite
   - Use Turbo C (required) / any other IDE which supports graphics.h header file
